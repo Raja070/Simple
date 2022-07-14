@@ -1,2 +1,2 @@
 # Simple
-Simple Project
+Simple Project repository
